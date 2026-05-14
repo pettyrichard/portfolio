@@ -1,2 +1,10 @@
-# portfolio
-My personal portfolio website - built with Next.js or whatever slaps
+# Petty Richard Portfolio
+
+This is where the magic happens. Modern, fast, and fucking impressive.
+
+## Tech Stack
+- Next.js
+- Tailwind
+- etc.
+
+Live soon.
